@@ -18,7 +18,8 @@ const tests = {
   12345: '12345',
   'one 2three': 'one-2three',
   'Pop brésilienne header': 'pop-bresilienne-header',
-  Pōneke: 'poneke'
+  Pōneke: 'poneke',
+  'Ää Öö Üü': 'aeae-oeoe-ueue'
 };
 const testInputs = Object.keys(tests);
 
